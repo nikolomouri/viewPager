@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="super_cars">Super cars</string>
+    <string name="first_image">First image</string>
+    <string name="second_image">second image</string>
+</resources>
